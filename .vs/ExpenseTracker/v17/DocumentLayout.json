@@ -1,0 +1,612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|d:\\ddu data\\ddu sem 5\\wad\\expensetracker\\expensetracker\\expensetracker\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B34D7-3B92-4304-8785-43AF8D0899AC}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:24:56.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:12:34.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:12:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:12:43.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:12:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:12:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:13:05.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ExpenseTracker\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ExpenseTracker\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-22T04:41:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTracker\\appsettings.json",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "ExpenseTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T04:38:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:38:26.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:38:28.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T04:44:17.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Transaction\\Edit.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Edit.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Transaction\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:41:32.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "ExpenseTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:27:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Details.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Transaction\\Details.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Details.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Transaction\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:41:27.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Transaction\\Delete.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Delete.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Transaction\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:41:18.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Transaction\\Create.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Transaction\\Create.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Transaction\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:41:11.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:41:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:41:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:15:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T17:28:26.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:26:25.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAIMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T03:55:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T05:24:55.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T04:19:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\BudgetController.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\BudgetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:41:21.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:24:58.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:12:48.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T11:27:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:49:26.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:18:24.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Transaction.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:02:21.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:46:34.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ExpenseTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:17:29.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\HomeViewModel.cs",
+              "ToolTip": "D:\\DDU data\\DDU sem 5\\WAD\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:14:59.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+﻿@model ExpenseTracker.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+    <!-- Top Section: Financial Overview -->
+    <div class="row">
+        <div class="col-md-4">
+            <h4>Balance</h4>
+            <p>@Model.Balance.ToString("C0")</p>
+        </div>
+        <div class="col-md-4">
+            <h4>Income</h4>
+            <p>@Model.Income.ToString("C0")</p>
+        </div>
+        <div class="col-md-4">
+            <h4>Expenses</h4>
+            <p>@Model.Expenses.ToString("C0")</p>
+        </div>
+    </div>
+    <br/>
+    <!-- Middle Section: Graphical Representation (example for expenses pie chart) -->
+    <div class="row">
+        <div class="col-md-6">
+            <h4>Expense Distribution by Category</h4>
+            <br/>
+            <div id="pieChartContainer">
+                <canvas id="pieChart"></canvas>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h4>Expenses Over Time</h4>
+            <br/>
+            <div id="barChartContainer">
+                <canvas id="barChart"></canvas>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <h4>Download Excel Sheet</h4>
+    <form asp-controller="Report" asp-action="GenerateExcel" method="post">
+        <div class="form-group">
+            <label for="startDate">Start Date</label>
+            <input type="date" id="startDate" name="startDate" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="endDate">End Date</label>
+            <input type="date" id="endDate" name="endDate" class="form-control" required />
+        </div>
+        <br/>
+        <button type="submit" class="btn btn-primary">Download Excel</button>
+    </form>
+
+    <br/>
+    <!-- Middle-Lower Section: Recent Transactions -->
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Recent Transactions</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Category</th>
+                        <th>Amount</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var transaction in Model.RecentTransactions)
+                    {
+                        <tr>
+                            <td>@transaction.Date.ToShortDateString()</td>
+                            <td>@transaction.CategoryTitleWithIcon</td>
+                            <td>@transaction.FormattedAmount</td>
+                            <td>@transaction.Note</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <br/>
+    <!-- Bottom Section: Budget Progress -->
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Budget Progress</h4>
+            <hr/>
+            @foreach (var budget in Model.Budgets)
+            {
+                <div class="budget-item">
+                    <h5>@budget.Category?.Title</h5>
+                    <div class="progress">
+                        <!-- Example logic to calculate progress -->
+                        @{
+                            var spent = Model.RecentTransactions
+                            .Where(t => t.CategoryId == budget.CategoryId)
+                            .Sum(t => t.Amount);
+                            var progress = (double)spent / budget.Amount * 100;
+                        }
+                        <div class="progress-bar" role="progressbar" style="width:@progress%" aria-valuenow="@progress" aria-valuemin="0" aria-valuemax="100">
+                            @progress.ToString("0.0")%
+                        </div>
+                    </div>
+                    <p>Budget: @budget.Amount.ToString("C0") | Spent: @spent.ToString("C0")</p>
+                </div>
+            }
+        </div>
+        <br/>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Pie chart for expenses by category
+    var pieCtx = document.getElementById('pieChart').getContext('2d');
+    var pieChart = new Chart(pieCtx, {
+        type: 'pie',
+        data: {
+            labels: @Html.Raw(Json.Serialize(ViewBag.ExpensesByCategoryLabels)),
+            datasets: [{
+                data: @Html.Raw(Json.Serialize(ViewBag.ExpensesByCategoryData)),
+                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40']
+            }]
+        }
+    });
+
+    // Bar chart for expenses over time
+    var barCtx = document.getElementById('barChart').getContext('2d');
+    var barChart = new Chart(barCtx, {
+        type: 'bar',
+        data: {
+            labels: @Html.Raw(Json.Serialize(ViewBag.ExpensesOverTimeLabels)),
+            datasets: [{
+                label: 'Expenses',
+                data: @Html.Raw(Json.Serialize(ViewBag.ExpensesOverTimeData)),
+                backgroundColor: '#FF6384'
+            }]
+        }
+    });
+</script>

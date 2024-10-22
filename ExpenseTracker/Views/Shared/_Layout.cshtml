@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ExpenseTracker</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.syncfusion.com/ej2/27.1.48/material.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ExpenseTracker.styles.css" asp-append-version="true" />
+    <script src="https://cdn.syncfusion.com/ej2/27.1.48/dist/ej2.min.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 60px; /* Adjust height */
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+            z-index: 1000; /* Ensure header is above everything */
+        }
+        body {
+            min-height: 100vh; /* Ensure the body covers the full viewport height */
+            display: flex;
+            flex-direction: column;
+        }
+
+        .d-flex {
+            flex: 1; /* This ensures the content grows to take available space */
+            display: flex;
+        }
+
+        .sidebar {
+            width: 200px;
+            background-color: #343a40;
+            height: 100vh;
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding-top: 60px;
+        }
+
+        .sidebar .nav-link {
+            color: #ffffff;
+            padding: 15px 20px;
+            text-decoration: none;
+            display: block;
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .sidebar .nav-link.active {
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 4px;
+        }
+
+        .sidebar .nav-link:hover {
+            background-color: #495057;
+            color: #ffffff;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        .sidebar .nav-item {
+            list-style: none;
+            margin-bottom: 10px;
+        }
+
+        .content-container {
+            flex: 1; /* Ensure the content container takes up remaining space */
+            padding-bottom: 20px; /* Add a little space before the footer */
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            margin-left: 200px; /* Align with sidebar width */
+            margin-top: 60px; /* Align with header height */
+            padding: 20px;
+            height: calc(100vh - 60px); /* Full height minus the header */
+            overflow-y: auto; /* Scroll only the main content */
+        }
+
+        .nav-tabs {
+            margin-bottom: 1rem;
+        }
+
+        .tab-content {
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-top: none; /* If you want to hide the border above the tab content */
+        }
+
+        /* Footer styles */
+        footer {
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SpendSmart</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index">Hello @User.Identity.Name!</a>
+                            </li>
+                            <li class="nav-item">
+                                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" method="post">
+                                    <button type="submit" class="btn btn-link nav-link">Logout</button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="d-flex">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <!-- Sidebar -->
+            <div class="sidebar">
+                @Html.Partial("_Sidebar")
+            </div>
+        }
+
+        <!-- Main Content -->
+        <div class="content-container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; @DateTime.Now.Year - ExpenseTracker. All rights reserved.</p>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <ejs-scripts></ejs-scripts>
+</body>
+</html>
